@@ -1,0 +1,24 @@
+this is a command line based resume generator.
+it'll give you a nicely indent resume.
+some commands:(all commands are end with EOF<CTRL+D>)
+name r      -> change your name
+name a      -> add your name(when creating a new resume)
+phone r     -> change your phone number
+phone a     -> add a phone number
+mail a/r
+intern a/r
+about a/r
+project a/r
+skill a/r
+minor a/r
+the commands are basicaly the same, using a for add a field and r for replace a field.
+there are two special commands:
+load
+done
+those two has NO parameter. when you finish editing your resume, just use done command, the resume will be 'r.html' in the folder where you put this programm.
+There must be a lot a bug to be fixed, i will fixed them as soon as i find
+them.
+PS:
+resume-cn.html
+resume-en.html
+are the samples.
