@@ -1,0 +1,6 @@
+*.out
+*.gch
+*.o
+tags
+r.html
+
