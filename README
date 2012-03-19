@@ -1,6 +1,6 @@
 this is a command line based resume generator.
 it'll give you a nicely indent resume.
-some commands:(all commands are end with EOF<CTRL+D>)
+some commands:(all commands are ends with EOF<CTRL+D>)
 name r      -> change your name
 name a      -> add your name(when creating a new resume)
 phone r     -> change your phone number
